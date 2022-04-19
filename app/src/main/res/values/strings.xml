@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarDock</string>
+    <string name="scrollview_for_sign_up">scrollview for sign up</string>
+    <string name="scrollview">scrollview</string>
+</resources>
